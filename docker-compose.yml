@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  # app
+  app:
+    build:
+      context: .
+      args: []
+    environment: []
+    ports: []
+    links: []
+    command: "Hello World"

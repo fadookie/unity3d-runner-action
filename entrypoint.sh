@@ -8,7 +8,6 @@ echo "PWD: $PWD"
 
 set -o xtrace
 
-cd "$HOME"
 ls
 
 PROJECT_PATH='./Developers/Unity Project/Spooksville'
